@@ -12,6 +12,8 @@ r!"
     when "exit"
       puts "Goodbye!"
       break
+    else
+      puts "The computer guessed #{random_number}"
     end
   end
 end
