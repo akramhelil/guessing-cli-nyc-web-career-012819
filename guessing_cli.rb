@@ -13,7 +13,7 @@ r!"
       puts "Goodbye!"
       break
     else
-      puts "The computer guessed #{random_num}"
+      puts "The computer guessed #{random_num}."
     end
   end
 end
